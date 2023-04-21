@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Sem8Hw\58\bin\Debug\net7.0\58.exe
+C:\Users\Admin\Desktop\Sem8Hw\58\bin\Debug\net7.0\58.deps.json
+C:\Users\Admin\Desktop\Sem8Hw\58\bin\Debug\net7.0\58.runtimeconfig.json
+C:\Users\Admin\Desktop\Sem8Hw\58\bin\Debug\net7.0\58.dll
+C:\Users\Admin\Desktop\Sem8Hw\58\bin\Debug\net7.0\58.pdb
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.dll
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\refint\58.dll
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.pdb
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\58.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Sem8Hw\58\obj\Debug\net7.0\ref\58.dll
